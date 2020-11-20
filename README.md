@@ -1,16 +1,22 @@
-### Hi there 👋
-
 <!--
 **bjhargrave/bjhargrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+I am involved in a number of open source projects mostly around Java technology and OSGi technology. I have been doing open standards and open source for over 20 years.
+
+### Main Open Source Projects
+
+| | |
+| --- | --- |
+| **[bnd](https://github.com/bndtools/bnd)** | Tooling to build OSGi bundles including Eclipse, Maven, and Gradle plugins. |
+| **[transformer](https://github.com/eclipse/transformer)** | Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names. |
+| **[osgi](https://github.com/osgi)** | OSGi Working Group at the Eclipse Foundation. |
+| **[osgi-test](https://github.com/osgi/osgi-test)** | Testing support for OSGi. Includes JUnit 4 and JUnit 5 support and AssertJ support. |
+| **[rt.equinox.framework](https://github.com/eclipse/rt.equinox.framework)** | Eclipse Equinox framework is the leading implementation of the OSGi Core Framework specification. |
+
+### Day Job
+
+| | |
+| --- | --- |
+| **[IBM](https://www.ibm.com/opensource/)** | Part of the Developer Ecosystems Group at IBM. |
