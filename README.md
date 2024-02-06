@@ -19,4 +19,4 @@ I am involved in a number of open source projects mostly around Java technology 
 
 | | |
 | --- | --- |
-| **[IBM](https://www.ibm.com/opensource/)** | Part of Global Ecosystems at IBM supporting open technologies and developer advocacy. |
+| **[IBM](https://www.ibm.com/opensource/)** | Part of IBM Research supporting open technologies and developer advocacy. |
