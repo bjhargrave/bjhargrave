@@ -3,12 +3,13 @@
 -->
 ### Hi there 👋
 
-I am involved in a number of open source projects mostly around Java technology and OSGi technology. I have been doing open standards and open source for over 20 years.
+I am involved in a number of open source projects mostly around AI, Java, and OSGi technology. I have been doing open standards and open source for over 20 years.
 
 ### Main Open Source Projects
 
 | | |
 | --- | --- |
+| **[pytorch](https://github.com/pytorch/pytorch)** | Tensors and Dynamic neural networks in Python with strong GPU acceleration. |
 | **[bnd](https://github.com/bndtools/bnd)** | Tooling to build OSGi bundles including Eclipse, Maven, and Gradle plugins. |
 | **[transformer](https://github.com/eclipse/transformer)** | Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names. |
 | **[add-maven-descriptor](https://github.com/bjhargrave/add-maven-descriptor)** | Gradle Plugin to add maven descriptors when jars are built. |
