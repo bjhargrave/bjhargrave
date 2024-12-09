@@ -12,7 +12,7 @@ I am involved in a number of open source projects mostly around AI, Java, and OS
 | **[instructlab](https://github.com/instructlab)** | A model-agnostic AI project that facilitates contributions to Large Language Models (LLMs). |
 | **[pytorch](https://github.com/pytorch/pytorch)** | Tensors and Dynamic neural networks in Python with strong GPU acceleration. |
 | **[bnd](https://github.com/bndtools/bnd)** | Tooling to build OSGi bundles including Eclipse, Maven, and Gradle plugins. |
-| **[transformer](https://github.com/eclipse/transformer)** | Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names. |
+| **[transformer](https://github.com/eclipse-transformer/transformer)** | Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names. |
 | **[add-maven-descriptor](https://github.com/bjhargrave/add-maven-descriptor)** | Gradle Plugin to add maven descriptors when jars are built. |
 | **[osgi](https://github.com/osgi/osgi)** | Committer on the OSGi Specification Project. |
 | **[osgi-test](https://github.com/osgi/osgi-test)** | Testing support for OSGi. Includes JUnit 4 and JUnit 5 support and AssertJ support. |
